@@ -1,0 +1,3 @@
+[submodule "incl/module1"]
+	path = incl/module1
+	url = https://github.com/zettaSh/subm.git
